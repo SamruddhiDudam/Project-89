@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(0deg, rgba(28,155,191,1) 17%, rgba(47,197,203,1) 100%);
+    }
+    
+    #logo1{
+        text-align: center;
+        padding-left: 10px;
+        padding-top: -10px;
+        padding-bottom: -10px;
+        padding-right: -10px;
+    }
+     h1{
+        color: whitesmoke;
+        height: 8%;
+        width: 20%;
+        background-color: orangered;
+        border-radius: 10px;
+        font-family: 'Roboto', sans-serif;
+    }
+    #my_div{
+      padding-bottom:200px;
+    }
